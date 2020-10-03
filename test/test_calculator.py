@@ -64,3 +64,5 @@ def test_calculator_power_is():
     num2 = 1
     expected = 1
     assert calt.power(num1, num2) ==  expected
+
+print("hello Worls")
